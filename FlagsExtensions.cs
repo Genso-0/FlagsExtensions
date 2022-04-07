@@ -15,7 +15,7 @@ namespace FlagsTesting
 
 
         /// <summary>
-        /// Only use this for debuging. Returns the flag as an array of bytes.
+        /// Only use this for debuging. Returns the flag as an array of bits.
         /// </summary>
         /// <param name="this"></param>
         /// <returns></returns>
@@ -28,7 +28,7 @@ namespace FlagsTesting
             return bitValues;
         }
         /// <summary>
-        /// Only use this for debuging. Returns the flag as a string containing the bytes.
+        /// Only use this for debuging. Returns the flag as a string containing the bits.
         /// </summary>
         /// <param name="this"></param>
         /// <returns></returns>
