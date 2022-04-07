@@ -1,7 +1,7 @@
 using UnityEngine;
-namespace EnumTesting
+namespace FlagsTesting
 {
-    public class UnityEnumTesting : MonoBehaviour
+    public class UnityFlagsTesting : MonoBehaviour
     {
         public ExampleFlags flags;
         public ExampleFlags testAgainst;
